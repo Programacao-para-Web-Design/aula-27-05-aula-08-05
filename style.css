@@ -1,35 +1,55 @@
-#nav {
-	background-color: #FF7F50;
-}
-#header{
-	heigth: 70px;
-	width: 200px;
-	bacground-color: #808080;
-#nav {
-	heigth: 60px;
-	width: 180px;
-	bacground-color: #0000CD;
-}
-  #main {
-	height: 800px;
-	width: 600px;
-	bacground-color: #00BFFF;
-}
-  #section {
-	heigth: 700px;
-	width: 200px;
-	bacgorund-color: #00BFFF;
-}
-  #article1 {
-	heigth: 200px;
-	width: 150px;
-	bacground-color: #EE7621;
-}
-  #article2 {
-	heigth: 200px;
-	width: 150px;
-	background-color: #EE7621;
-}
-#footer {
-	color: #000000;
-}
+body{
+				background-color: purple; 
+			}
+			header{
+				background-color: pink; 
+			}
+			section{
+				background-color: red;
+			}
+			
+
+			#img{
+				background-color: white;
+				width:320px;
+				height:205px;
+				right: 150px;
+				top: 70px;
+			}
+			#nav{
+				background-color: red;
+				box-shadow: 7px 7px 9px 0px black;
+			}
+			#main{
+				background-color: green; 
+
+			}
+			#nome{
+				font-weight: bold;	
+				font-size: 17px;
+				text-align: center;
+			}
+			#nome1{
+				font-size: 17px;
+				text-align: center;
+			}
+			#tres{
+				background-color: orange; 
+			}
+			#meio{
+				background-color: blue; 
+			}
+			#um{
+				background-color: gray; 
+			}
+			#dois{
+				background-color: turquoise; 
+			}
+			#quatro{
+				background-color: brown; 
+				flex-direction: column;
+			}
+			#k{
+           			font-size: 205px;
+				text-align: center;
+			}
